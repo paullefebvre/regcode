@@ -1,0 +1,1 @@
+#tag ToolbarBegin Toolbar MainToolbar	Begin ToolButton ToolItem1		Caption = "Generate"		HelpTag = ""		Style = 0		Icon = 1513277439	End	Begin ToolButton ToolItem2		Caption = "Validate"		HelpTag = ""		Style = 0		Icon = 1297680383	EndEnd#tag EndToolbar
